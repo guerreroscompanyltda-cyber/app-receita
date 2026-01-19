@@ -1,0 +1,12 @@
+{
+  "name": "Copy of VidaSana VIP - El Universo Saludable",
+  "description": "Acceso exclusivo a tu transformación física. +1000 recetas, 20 bonos premium y soporte VIP.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2927/2927347.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "requestFramePermissions": []
+}
